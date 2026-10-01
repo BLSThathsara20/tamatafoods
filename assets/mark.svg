@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="TAMATA">
+  <circle cx="40" cy="40" r="38.5" fill="#C4161C"/>
+  <circle cx="40" cy="40" r="38.5" fill="none" stroke="#EDE6DA" stroke-width="1.6"/>
+  <circle cx="40" cy="22.5" r="6.6" fill="#F3ECE1"/>
+  <path fill="#F3ECE1" d="M40 30.2c-2.2 3.1-4.6 9.8-1.4 22.2l-7.6 14.6c-.4.8.25 1.7 1.1 1.4L40 64.4l7.9 3.8c.85.3 1.5-.6 1.1-1.4l-7.6-14.6c3.2-12.4.8-19.1-1.4-22.2z"/>
+  <path fill="#F3ECE1" d="M37.4 33.2C27.8 29.6 19.4 21.4 16.6 17.4c10.2 1.6 17.2 8 20.8 13.6zM42.6 33.2C52.2 29.6 60.6 21.4 63.4 17.4c-10.2 1.6-17.2 8-20.8 13.6z"/>
+</svg>

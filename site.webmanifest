@@ -1,0 +1,21 @@
+{
+  "name": "TAMATA",
+  "short_name": "TAMATA",
+  "description": "A Sri Lankan house of ready-to-eat food. Easy to Life.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#0d0c0b",
+  "theme_color": "#0d0c0b",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "assets/apple-touch.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
