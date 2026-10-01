@@ -144,33 +144,12 @@ h3 {
 .brand {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
 }
 
-.brand-mark {
-  width: 36px;
-  height: 36px;
-}
-
-.brand-text {
-  display: flex;
-  flex-direction: column;
-  line-height: 1;
-}
-
-.brand-text strong {
-  font-family: Outfit, sans-serif;
-  font-size: 0.92rem;
-  font-weight: 500;
-  letter-spacing: 0.28em;
-}
-
-.brand-text small {
-  margin-top: 0.28rem;
-  font-size: 0.58rem;
-  letter-spacing: 0.22em;
-  text-transform: uppercase;
-  color: var(--cream-dim);
+.brand-logo {
+  height: 3.6rem;
+  width: auto;
+  border-radius: 0.2rem;
 }
 
 .nav-links {
